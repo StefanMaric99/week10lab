@@ -1,0 +1,62 @@
+[
+  {
+    "name": "email",
+    "type": "text",
+    "placeholder": "Enter email",
+    "width": "col-6"
+  }, 
+  {
+    "name": "fullName",
+    "type": "text",
+    "placeholder": "Full Name",
+    "width": "col-6"
+  },
+  {
+    "name": "address",
+    "type": "text",
+    "placeholder": "1234 Main St",
+    "width": "col-12"
+  },
+  {
+    "name": "address2",
+    "type": "text",
+    "placeholder": "Appartment, studio or floor",
+    "width": "col-12"
+  },
+  {
+    "name": "city",
+    "type": "text",
+    "width": "col-4"
+  },
+  {
+    "name": "province",
+    "type": "select",
+    "width": "col-4",
+    "options": [
+      "Alberta",
+      "British Columbia",
+      "Manitoba",
+      "New Brunswick",
+      "Newfoundland and Labrador",
+      "Northwest Territories",
+      "Nova Scotia",
+      "Nunavut",
+      "Ontario",
+      "Prince Edward Island",
+      "Quebec",
+      "Saskatchewan",
+      "Yukon"
+    ]
+  },
+  {
+    "name": "postalCode",
+    "type": "text",
+    "width": "col-4"
+  },
+  {
+    "name": "terms",
+    "type": "checkbox",
+    "width": "col-1",
+    "label": "Agree Terms & Condition?"
+  }
+]
